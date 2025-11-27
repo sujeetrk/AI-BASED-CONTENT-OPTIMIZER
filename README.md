@@ -209,7 +209,6 @@ AI-Content-Marketing-Optimizer/
 │
 ├── streamlit_app.py
 ├── run.py
-├── .gitignore
 └── README.md
 ```
 
